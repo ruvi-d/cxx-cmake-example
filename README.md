@@ -79,3 +79,5 @@ Calling c++ function, time elapsed: 100 ns.
 The cmake files are largely inspired by [Using unsafe for Fun and Profit](https://github.com/Michael-F-Bryan/rust-ffi-guide).
 
 I learned a lot about cross language LTO from this post: [Closing the gap: cross-language LTO between Rust and C/C++](https://blog.llvm.org/2019/09/closing-gap-cross-language-lto-between.html)
+
+test change
