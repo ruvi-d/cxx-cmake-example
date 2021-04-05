@@ -20,6 +20,8 @@ if(ENABLE_LTO)
   endif()
 endif()
 
+add_compile_options(--target=x86_64-unknown-linux-gnu)
+
 include_directories(${CMAKE_BINARY_DIR}/rust_part)
 include_directories(include)
 
